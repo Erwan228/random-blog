@@ -52,6 +52,7 @@ let DancersBlog = {
     ]
 };
 let ScholarsBlog = {
+    color: 'green',
     title: "Becoming a Scholar",
     blogs: [
         {
